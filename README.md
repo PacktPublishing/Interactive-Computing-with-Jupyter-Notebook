@@ -24,10 +24,10 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is intended for anyone interested in numerical computing and data science: students, researchers, teachers, engineers, analysts, and hobbyists. A basic knowledge of Python/NumPy is recommended. Some skills in mathematics will help you understand the theory behind the computational methods.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-IPython console
-Jupyter Notebook
-Graphic Card - NVIDIA GeForce GT 710
-Operating System - Windows 7+/ubuntu 16.04
+IPython console,
+Jupyter Notebook,
+Graphic Card - NVIDIA GeForce GT 710,
+Operating System - Windows 7+/ubuntu 16.04.
 
 ## Related Products
 * [Jupyter for Data Science [Video]](https://www.packtpub.com/big-data-and-business-intelligence/jupyter-data-science-video?utm_source=github&utm_medium=repository&utm_campaign=9781789130799)
